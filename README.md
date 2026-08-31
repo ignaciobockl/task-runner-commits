@@ -55,6 +55,4 @@ All skills use the standard `SKILL.md` format shared across Opencode, Claude Cod
 
 ---
 
-by Nachotta
-
 *This repository does not contain any runtime code; it only provides specifications for skills that agents will execute.*
